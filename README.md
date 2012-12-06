@@ -1,12 +1,12 @@
 # RapidoJS
 
-A simple, lightweight javascript librairie aimed to be the only script in your <HEAD>, crafted for performance to made your web app loading a breeze.
+A simple, lightweight javascript librairie aimed to be the only script in your HEAD, crafted for performance to made your web app loading a breeze.
 
 RapidoJS simply stores your script, css & data files in LocalStorage to load them rapidly in the next page refresh or API call.
 
 ## Installation
 
-Include script in your <HEAD>:
+Include script in your HEAD:
 
     <script src="/path/to/Rapido.js"></script>
 
@@ -25,4 +25,4 @@ Pull requests are very welcome! Make sure your patches are well tested. Please c
 
 ## Authors
 
-[Youssef Aani](https://github.com/youaani)
+[Youssef Aani](https://github.com/youaani)    
