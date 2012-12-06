@@ -26,5 +26,4 @@ in Internet Explorer on Windows 7 for instance (because of the wrong MIME type).
 Pull requests are very welcome! Make sure your patches are well tested. Please create a topic branch for every separate change you make.
 
 ## Authors
-
 [Youssef Aani](https://github.com/youaani)    
